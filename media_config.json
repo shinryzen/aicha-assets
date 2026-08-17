@@ -14,7 +14,8 @@
     "name": "☀️ 星のあいちゃビーチ 背景 (昼 07:00〜16:00)",
     "description": "昼の時間帯（7:00〜16:00）に「星のあいちゃビーチ」で表示される背景画像です。",
     "currentUrl": "/uploads/1786964675176_my2o9_aicha_beach_day.webm",
-    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+    "defaultVolume": 0.05
   },
   {
     "id": "beach_sunset_media",
