@@ -111,7 +111,7 @@
     "category": "bgm",
     "name": "📻 ラジオ / Live配信 デフォルト音源",
     "description": "ラジオステーションやLive配信で音源指定がない場合に流れるデフォルト音楽です。",
-    "currentUrl": "/welcomepagebgm.mp3",
+    "currentUrl": "",
     "defaultUrl": "/welcomepagebgm.mp3",
     "defaultVolume": 0.5
   },
