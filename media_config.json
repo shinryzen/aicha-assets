@@ -102,9 +102,9 @@
     "category": "bgm",
     "name": "🍸 カフェバー BGM",
     "description": "あいちゃカフェバーでリラックス時に流れる店内ジャズ・カフェBGMです。",
-    "currentUrl": "/welcomepagebgm.mp3",
+    "currentUrl": "/uploads/1786965089955_fc5xd_nightjazzpiano.mp3",
     "defaultUrl": "/welcomepagebgm.mp3",
-    "defaultVolume": 0.4
+    "defaultVolume": 0.05
   },
   {
     "id": "radio_bgm",
