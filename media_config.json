@@ -53,7 +53,7 @@
     "category": "bgm",
     "name": "🎵 ウェルカム画面 BGM",
     "description": "サイト起動時・ウェルカム画面（トップ画面）でバックグラウンド再生されるメインBGMです。",
-    "currentUrl": "/welcomepagebgm.mp3",
+    "currentUrl": "/uploads/1786964838002_o6x88_welcomepagebgm.mp3",
     "defaultUrl": "/welcomepagebgm.mp3",
     "defaultVolume": 0.35
   },
