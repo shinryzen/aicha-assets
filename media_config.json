@@ -1,0 +1,134 @@
+[
+  {
+    "id": "beach_morning_media",
+    "category": "image",
+    "name": "🌅 星のあいちゃビーチ 背景 (朝 05:00〜07:00)",
+    "description": "朝の時間帯（5:00〜7:00）に「星のあいちゃビーチ」で表示される背景画像です。",
+    "currentUrl": "/uploads/1786964665604_sdyih_aicha_beach_sunset.webm",
+    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+  },
+  {
+    "id": "beach_day_media",
+    "category": "image",
+    "name": "☀️ 星のあいちゃビーチ 背景 (昼 07:00〜16:00)",
+    "description": "昼の時間帯（7:00〜16:00）に「星のあいちゃビーチ」で表示される背景画像です。",
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+  },
+  {
+    "id": "beach_sunset_media",
+    "category": "image",
+    "name": "🌇 星のあいちゃビーチ 背景 (夕方 16:00〜20:00)",
+    "description": "夕方の時間帯（16:00〜20:00）に「星のあいちゃビーチ」で表示される背景画像です。",
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+  },
+  {
+    "id": "beach_night_media",
+    "category": "image",
+    "name": "🌙 星のあいちゃビーチ 背景 (夜 20:00〜05:00)",
+    "description": "夜間の時間帯（20:00〜05:00）に「星のあいちゃビーチ」で表示される背景画像です。",
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80"
+  },
+  {
+    "id": "beach_bgm",
+    "category": "bgm",
+    "name": "🌊 星のあいちゃビーチ BGM・波の環境音",
+    "description": "星のあいちゃビーチのBGMです（初期値はなし/無音）。",
+    "currentUrl": "",
+    "defaultUrl": "",
+    "defaultVolume": 0
+  },
+  {
+    "id": "welcome_bg_image",
+    "category": "image",
+    "name": "🖼️ ウェルカム画面 メイン背景画像",
+    "description": "アプリ起動直後のウェルカム画面中央に表示されるカード背景ビジュアル画像です。",
+    "currentUrl": "/src/assets/images/welcome_miyazaki_1786276662954.jpg",
+    "defaultUrl": "/src/assets/images/welcome_miyazaki_1786276662954.jpg"
+  },
+  {
+    "id": "welcome_bgm",
+    "category": "bgm",
+    "name": "🎵 ウェルカム画面 BGM",
+    "description": "サイト起動時・ウェルカム画面（トップ画面）でバックグラウンド再生されるメインBGMです。",
+    "currentUrl": "/welcomepagebgm.mp3",
+    "defaultUrl": "/welcomepagebgm.mp3",
+    "defaultVolume": 0.35
+  },
+  {
+    "id": "island_map_day",
+    "category": "image",
+    "name": "🏝️ あいちゃアイランド 全体マップ (☀️ 昼 06:00〜16:00)",
+    "description": "6時〜16時の昼間に表示されるあいちゃアイランドの全体マップ画像です。",
+    "currentUrl": "/daytime_map.png",
+    "defaultUrl": "/daytime_map.png"
+  },
+  {
+    "id": "island_map_sunset",
+    "category": "image",
+    "name": "🏝️ あいちゃアイランド 全体マップ (🌇 夕方 16:00〜20:00)",
+    "description": "16時〜20時の夕方時間帯に表示されるあいちゃアイランドの夕焼けマップ画像です。",
+    "currentUrl": "/sunset_map.png",
+    "defaultUrl": "/sunset_map.png"
+  },
+  {
+    "id": "island_map_night",
+    "category": "image",
+    "name": "🏝️ あいちゃアイランド 全体マップ (🌙 夜 20:00〜06:00)",
+    "description": "20時〜6時の夜間時間帯に表示されるあいちゃアイランドのナイトマップ画像です。",
+    "currentUrl": "/nighttime_map.png",
+    "defaultUrl": "/nighttime_map.png"
+  },
+  {
+    "id": "cafebar_day_image",
+    "category": "image",
+    "name": "☕ カフェバー (昼モード) 背景画像",
+    "description": "あいちゃカフェバーで昼時間帯に表示される明るいカフェ店舗空間の背景画像です。",
+    "currentUrl": "/cafebar_daytime.png",
+    "defaultUrl": "/cafebar_daytime.png"
+  },
+  {
+    "id": "cafebar_night_image",
+    "category": "image",
+    "name": "🍸 カフェバー (夜モード) 背景画像",
+    "description": "あいちゃカフェバーで夜時間帯に表示されるシックなバー店舗空間の背景画像です。",
+    "currentUrl": "/cafebar_nighttime.png",
+    "defaultUrl": "/cafebar_nighttime.png"
+  },
+  {
+    "id": "cafebar_bgm",
+    "category": "bgm",
+    "name": "🍸 カフェバー BGM",
+    "description": "あいちゃカフェバーでリラックス時に流れる店内ジャズ・カフェBGMです。",
+    "currentUrl": "/welcomepagebgm.mp3",
+    "defaultUrl": "/welcomepagebgm.mp3",
+    "defaultVolume": 0.4
+  },
+  {
+    "id": "radio_bgm",
+    "category": "bgm",
+    "name": "📻 ラジオ / Live配信 デフォルト音源",
+    "description": "ラジオステーションやLive配信で音源指定がない場合に流れるデフォルト音楽です。",
+    "currentUrl": "/welcomepagebgm.mp3",
+    "defaultUrl": "/welcomepagebgm.mp3",
+    "defaultVolume": 0.5
+  },
+  {
+    "id": "app_icon_image",
+    "category": "image",
+    "name": "✨ あいちゃ 公式アプリアイコン",
+    "description": "ヘッダータイトル横やログイン画面、モーダル等で表示されるブランドアイコンです。",
+    "currentUrl": "/icon.png",
+    "defaultUrl": "/icon.png"
+  },
+  {
+    "id": "stamp_heart_image",
+    "category": "image",
+    "name": "💖 あいちゃ ハートスタンプ画像",
+    "description": "チャットメッセージやリアクションで贈ることができる公式ハートマーク画像です。",
+    "currentUrl": "/heart_icon_1783424214517.jpg",
+    "defaultUrl": "/heart_icon_1783424214517.jpg"
+  }
+]
