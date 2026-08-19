@@ -4,7 +4,7 @@
     "category": "image",
     "name": "🌅 星のあいちゃビーチ 背景 (朝 05:00〜07:00)",
     "description": "朝の時間帯（5:00〜7:00）に「星のあいちゃビーチ」で表示される背景画像です。",
-    "currentUrl": "/uploads/1786964665604_sdyih_aicha_beach_sunset.webm",
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultVolume": 0.05
   },
@@ -13,7 +13,7 @@
     "category": "image",
     "name": "☀️ 星のあいちゃビーチ 背景 (昼 07:00〜16:00)",
     "description": "昼の時間帯（7:00〜16:00）に「星のあいちゃビーチ」で表示される背景画像です。",
-    "currentUrl": "/uploads/1786964675176_my2o9_aicha_beach_day.webm",
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultVolume": 0.05
   },
@@ -22,7 +22,7 @@
     "category": "image",
     "name": "🌇 星のあいちゃビーチ 背景 (夕方 16:00〜20:00)",
     "description": "夕方の時間帯（16:00〜20:00）に「星のあいちゃビーチ」で表示される背景画像です。",
-    "currentUrl": "/uploads/1786964691967_8ubir_aicha_beach_sunset.webm",
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultVolume": 0.05
   },
@@ -31,7 +31,7 @@
     "category": "image",
     "name": "🌙 星のあいちゃビーチ 背景 (夜 20:00〜05:00)",
     "description": "夜間の時間帯（20:00〜05:00）に「星のあいちゃビーチ」で表示される背景画像です。",
-    "currentUrl": "/uploads/1786964701621_tvfkg_aicha_beach_night.webm",
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultVolume": 0.05
   },
@@ -57,16 +57,16 @@
     "category": "bgm",
     "name": "🎵 ウェルカム画面 BGM",
     "description": "サイト起動時・ウェルカム画面（トップ画面）でバックグラウンド再生されるメインBGMです。",
-    "currentUrl": "/uploads/1786964838002_o6x88_welcomepagebgm.mp3",
+    "currentUrl": "/welcomepagebgm.mp3",
     "defaultUrl": "/welcomepagebgm.mp3",
-    "defaultVolume": 0.05
+    "defaultVolume": 0.35
   },
   {
     "id": "island_map_day",
     "category": "image",
     "name": "🏝️ あいちゃアイランド 全体マップ (☀️ 昼 06:00〜16:00)",
     "description": "6時〜16時の昼間に表示されるあいちゃアイランドの全体マップ画像です。",
-    "currentUrl": "/uploads/1786964777936_dutxv_Copilot_20260809_222823.png",
+    "currentUrl": "/uploads/1787140185472_7rvrg_Copilot_20260809_222823.png",
     "defaultUrl": "/daytime_map.png"
   },
   {
@@ -74,7 +74,7 @@
     "category": "image",
     "name": "🏝️ あいちゃアイランド 全体マップ (🌇 夕方 16:00〜20:00)",
     "description": "16時〜20時の夕方時間帯に表示されるあいちゃアイランドの夕焼けマップ画像です。",
-    "currentUrl": "/uploads/1786964796664_i3eu1_Gemini_Generated_Image_31ipcz31ipcz31ip.png",
+    "currentUrl": "/uploads/1787140201081_hg6iw_Gemini_Generated_Image_31ipcz31ipcz31ip.png",
     "defaultUrl": "/sunset_map.png"
   },
   {
@@ -82,7 +82,7 @@
     "category": "image",
     "name": "🏝️ あいちゃアイランド 全体マップ (🌙 夜 20:00〜06:00)",
     "description": "20時〜6時の夜間時間帯に表示されるあいちゃアイランドのナイトマップ画像です。",
-    "currentUrl": "/uploads/1786964811363_uit5t_Gemini_Generated_Image_oqczmoqczmoqczmo.png",
+    "currentUrl": "/nighttime_map.png",
     "defaultUrl": "/nighttime_map.png"
   },
   {
@@ -106,16 +106,16 @@
     "category": "bgm",
     "name": "🍸 カフェバー BGM",
     "description": "あいちゃカフェバーでリラックス時に流れる店内ジャズ・カフェBGMです。",
-    "currentUrl": "/uploads/1786965089955_fc5xd_nightjazzpiano.mp3",
+    "currentUrl": "/welcomepagebgm.mp3",
     "defaultUrl": "/welcomepagebgm.mp3",
-    "defaultVolume": 0.05
+    "defaultVolume": 0.4
   },
   {
     "id": "radio_bgm",
     "category": "bgm",
     "name": "📻 ラジオ / Live配信 デフォルト音源",
     "description": "ラジオステーションやLive配信で音源指定がない場合に流れるデフォルト音楽です。",
-    "currentUrl": "",
+    "currentUrl": "/welcomepagebgm.mp3",
     "defaultUrl": "/welcomepagebgm.mp3",
     "defaultVolume": 0.5
   },
