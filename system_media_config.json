@@ -57,9 +57,9 @@
     "category": "bgm",
     "name": "🎵 ウェルカム画面 BGM",
     "description": "サイト起動時・ウェルカム画面（トップ画面）でバックグラウンド再生されるメインBGMです。",
-    "currentUrl": "/uploads/1787667505783_rnom8_welcomepagebgm.mp3",
+    "currentUrl": "/welcomepagebgm.mp3",
     "defaultUrl": "/welcomepagebgm.mp3",
-    "defaultVolume": 0.05
+    "defaultVolume": 0.35
   },
   {
     "id": "island_map_day",
@@ -74,7 +74,7 @@
     "category": "image",
     "name": "🏝️ あいちゃアイランド 全体マップ (🌇 夕方 16:00〜20:00)",
     "description": "16時〜20時の夕方時間帯に表示されるあいちゃアイランドの夕焼けマップ画像です。",
-    "currentUrl": "/uploads/1787667473902_kncz9_____.png",
+    "currentUrl": "/sunset_map.png",
     "defaultUrl": "/sunset_map.png"
   },
   {
@@ -82,7 +82,7 @@
     "category": "image",
     "name": "🏝️ あいちゃアイランド 全体マップ (🌙 夜 20:00〜06:00)",
     "description": "20時〜6時の夜間時間帯に表示されるあいちゃアイランドのナイトマップ画像です。",
-    "currentUrl": "/uploads/1787667485222_cmsuj_____.png",
+    "currentUrl": "/nighttime_map.png",
     "defaultUrl": "/nighttime_map.png"
   },
   {
