@@ -48,9 +48,9 @@
     "id": "welcome_bg_image",
     "category": "image",
     "name": "🖼️ ウェルカム画面 メイン背景画像",
-    "description": "アプリ起動直後のウェルカム画面中央に表示されるカード背景ビジュアル画像です。",
-    "currentUrl": "/src/assets/images/welcome_miyazaki_1786276662954.jpg",
-    "defaultUrl": "/src/assets/images/welcome_miyazaki_1786276662954.jpg"
+    "description": "アプリ起動直後のウェルカム画面中央に表示されるカード背景ビジュアル画像です（時間帯別に昼・夕・夜が連動）。",
+    "currentUrl": "/daytime_map.png",
+    "defaultUrl": "/daytime_map.png"
   },
   {
     "id": "welcome_bgm",
@@ -66,7 +66,7 @@
     "category": "image",
     "name": "🏝️ あいちゃアイランド 全体マップ (☀️ 昼 06:00〜16:00)",
     "description": "6時〜16時の昼間に表示されるあいちゃアイランドの全体マップ画像です。",
-    "currentUrl": "/uploads/1787667454866_njk7b_____.png",
+    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1788173160064_____.png",
     "defaultUrl": "/daytime_map.png"
   },
   {
@@ -74,7 +74,7 @@
     "category": "image",
     "name": "🏝️ あいちゃアイランド 全体マップ (🌇 夕方 16:00〜20:00)",
     "description": "16時〜20時の夕方時間帯に表示されるあいちゃアイランドの夕焼けマップ画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1788138513449_Gemini_Generated_Image_31ipcz31ipcz31ip.png",
+    "currentUrl": "/sunset_map.png",
     "defaultUrl": "/sunset_map.png"
   },
   {
@@ -82,7 +82,7 @@
     "category": "image",
     "name": "🏝️ あいちゃアイランド 全体マップ (🌙 夜 20:00〜06:00)",
     "description": "20時〜6時の夜間時間帯に表示されるあいちゃアイランドのナイトマップ画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1788138531207_Gemini_Generated_Image_oqczmoqczmoqczmo.png",
+    "currentUrl": "/nighttime_map.png",
     "defaultUrl": "/nighttime_map.png"
   },
   {
