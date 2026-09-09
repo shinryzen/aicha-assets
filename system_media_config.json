@@ -4,7 +4,7 @@
     "category": "image",
     "name": "☀️ SRC2テストルーム 背景画像・動画 (昼 07:00〜16:00)",
     "description": "昼の時間帯（07:00〜16:00）にSRC2テストルームで表示される背景画像・WebM動画です。",
-    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1788951213299_aicha_beach_day.webm",
     "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultVolume": 0.05
   },
@@ -22,7 +22,7 @@
     "category": "image",
     "name": "🌙 SRC2テストルーム 背景画像・動画 (夜 20:00〜07:00)",
     "description": "夜間の時間帯（20:00〜07:00）にSRC2テストルームで表示される背景画像・WebM動画です。",
-    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
+    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1788951191883_aicha_beach_night.webm",
     "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
     "defaultVolume": 0.05
   },
