@@ -1,30 +1,75 @@
 [
   {
-    "id": "beach_day_media",
+    "id": "src2_bg_beach_day",
     "category": "image",
-    "name": "☀️ SRC2テストルーム 背景画像・動画 (昼 07:00〜16:00)",
-    "description": "昼の時間帯（07:00〜16:00）にSRC2テストルームで表示される背景画像・WebM動画です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1788951213299_aicha_beach_day.webm",
-    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
-    "defaultVolume": 0.05
+    "name": "🏖️ ビーチ昼",
+    "description": "SRC2チャットルーム「ビーチ昼」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
+    "defaultVolume": 0.5
   },
   {
-    "id": "beach_sunset_media",
+    "id": "src2_bg_beach_sunset",
     "category": "image",
-    "name": "🌇 SRC2テストルーム 背景画像・動画 (夕方 16:00〜20:00)",
-    "description": "夕方の時間帯（16:00〜20:00）にSRC2テストルームで表示される背景画像・WebM動画です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1788951170861_aicha_beach_sunset.webm",
-    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
-    "defaultVolume": 0.05
+    "name": "🌅 ビーチ夕",
+    "description": "SRC2チャットルーム「ビーチ夕」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80",
+    "defaultVolume": 0.5
   },
   {
-    "id": "beach_night_media",
+    "id": "src2_bg_beach_night",
     "category": "image",
-    "name": "🌙 SRC2テストルーム 背景画像・動画 (夜 20:00〜07:00)",
-    "description": "夜間の時間帯（20:00〜07:00）にSRC2テストルームで表示される背景画像・WebM動画です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1788951191883_aicha_beach_night.webm",
-    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80",
-    "defaultVolume": 0.05
+    "name": "🌌 ビーチ夜",
+    "description": "SRC2チャットルーム「ビーチ夜」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1789562158954_aicha_beach_night.webm",
+    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
+    "defaultVolume": 0.5
+  },
+  {
+    "id": "src2_bg_hill",
+    "category": "image",
+    "name": "⛰️ 星空の丘",
+    "description": "SRC2チャットルーム「星空の丘」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1920&q=80",
+    "defaultVolume": 0.5
+  },
+  {
+    "id": "src2_bg_cafebar",
+    "category": "image",
+    "name": "☕ カフェバー",
+    "description": "SRC2チャットルーム「カフェバー」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1920&q=80",
+    "defaultVolume": 0.5
+  },
+  {
+    "id": "src2_bg_theater",
+    "category": "image",
+    "name": "🎬 シアター",
+    "description": "SRC2チャットルーム「シアター」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1920&q=80",
+    "defaultVolume": 0.5
+  },
+  {
+    "id": "src2_bg_sakura",
+    "category": "image",
+    "name": "🌸 桜テラス",
+    "description": "SRC2チャットルーム「桜テラス」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "https://images.unsplash.com/photo-1522383225653-ed111181a951?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1522383225653-ed111181a951?auto=format&fit=crop&w=1920&q=80",
+    "defaultVolume": 0.5
+  },
+  {
+    "id": "src2_bg_neon",
+    "category": "image",
+    "name": "🌃 ネオンナイト",
+    "description": "SRC2チャットルーム「ネオンナイト」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1920&q=80",
+    "defaultVolume": 0.5
   },
   {
     "id": "island_map_day",
