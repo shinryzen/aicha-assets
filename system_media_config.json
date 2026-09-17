@@ -13,7 +13,7 @@
     "category": "image",
     "name": "🌅 ビーチ夕",
     "description": "SRC2チャットルーム「ビーチ夕」の背景画像またはWebM動画（.webm）です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1789641779377_aicha_beach_sunset.webm",
+    "currentUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80",
     "defaultVolume": 0.1
   },
@@ -23,7 +23,7 @@
     "name": "🌌 ビーチ夜",
     "description": "SRC2チャットルーム「ビーチ夜」の背景画像またはWebM動画（.webm）です。",
     "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1789641626506_aicha_beach_night.webm",
-    "defaultUrl": "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
     "defaultVolume": 0.1
   },
   {
