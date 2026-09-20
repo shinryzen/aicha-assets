@@ -15,7 +15,7 @@
     "description": "SRC2チャットルーム「ビーチ夕」の背景画像またはWebM動画（.webm）です。",
     "currentUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80",
-    "defaultVolume": 0.2
+    "defaultVolume": 0.1
   },
   {
     "id": "src2_bg_beach_night",
