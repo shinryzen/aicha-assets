@@ -4,34 +4,34 @@
     "category": "image",
     "name": "🏖️ ビーチ昼",
     "description": "SRC2チャットルーム「ビーチ昼」の背景画像またはWebM動画（.webm）です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1789729346336_aicha_beach_day.webm",
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
-    "defaultVolume": 0.1
+    "defaultVolume": 0.5
   },
   {
     "id": "src2_bg_beach_sunset",
     "category": "image",
     "name": "🌅 ビーチ夕",
     "description": "SRC2チャットルーム「ビーチ夕」の背景画像またはWebM動画（.webm）です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1789729371629_aicha_beach_sunset.webm",
+    "currentUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?auto=format&fit=crop&w=1920&q=80",
-    "defaultVolume": 0.5
+    "defaultVolume": 0.2
   },
   {
     "id": "src2_bg_beach_night",
     "category": "image",
     "name": "🌌 ビーチ夜",
     "description": "SRC2チャットルーム「ビーチ夜」の背景画像またはWebM動画（.webm）です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1789729396722_aicha_beach_night.webm",
-    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
-    "defaultVolume": 0.5
+    "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?auto=format&fit=crop&w=1920&q=80",
+    "defaultVolume": 0.1
   },
   {
     "id": "src2_bg_hill",
     "category": "image",
     "name": "⛰️ 星空の丘",
     "description": "SRC2チャットルーム「星空の丘」の背景画像またはWebM動画（.webm）です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1789729440351________.png",
+    "currentUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1920&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1920&q=80",
     "defaultVolume": 0.5
   },
@@ -100,8 +100,8 @@
     "category": "bgm",
     "name": "🎵 ウェルカム画面 BGM",
     "description": "サイト起動時・ウェルカム画面（トップ画面）でバックグラウンド再生されるメインBGMです。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1789729479419_welcomepagebgm.mp3",
+    "currentUrl": "/welcomepagebgm.mp3",
     "defaultUrl": "/welcomepagebgm.mp3",
-    "defaultVolume": 0.1
+    "defaultVolume": 0.35
   }
 ]
