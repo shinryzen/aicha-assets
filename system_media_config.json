@@ -6,7 +6,7 @@
     "description": "SRC2チャットルーム「ビーチ昼」の背景画像またはWebM動画（.webm）です。",
     "currentUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
     "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
-    "defaultVolume": 0.5
+    "defaultVolume": 0.05
   },
   {
     "id": "src2_bg_beach_sunset",
@@ -102,6 +102,6 @@
     "description": "サイト起動時・ウェルカム画面（トップ画面）でバックグラウンド再生されるメインBGMです。",
     "currentUrl": "/welcomepagebgm.mp3",
     "defaultUrl": "/welcomepagebgm.mp3",
-    "defaultVolume": 0.1
+    "defaultVolume": 0.35
   }
 ]
