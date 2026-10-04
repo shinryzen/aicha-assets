@@ -31,9 +31,9 @@
     "category": "image",
     "name": "⛰️ 星空の丘",
     "description": "SRC2チャットルーム「星空の丘」の背景画像またはWebM動画（.webm）です。",
-    "currentUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1920&q=80",
+    "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791126875156________.png",
     "defaultUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1920&q=80",
-    "defaultVolume": 0.05
+    "defaultVolume": 0.1
   },
   {
     "id": "src2_bg_cafebar",
