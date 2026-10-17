@@ -1,79 +1,5 @@
 [
   {
-    "id": "aicha2_top_artwork",
-    "category": "image",
-    "name": "🏝️ あいちゃ2.X トップ看板アートワーク（ちゃっちゃの上）",
-    "description": "あいちゃ2.0トップ画面でちゃっちゃの頭上に表示されるリゾート看板アートワーク画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791887160458_aicha2_logo_clean_1791887160457.png",
-    "defaultUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791887160458_aicha2_logo_clean_1791887160457.png",
-    "defaultVolume": 0.5
-  },
-  {
-    "id": "src2_ogp_image",
-    "category": "image",
-    "name": "🖼️ SNS招待・シェア用 OGP画像",
-    "description": "SRC2チャットの「SNS用にURLをコピー」で共有した際にX/LINE等に表示されるOGPアイキャッチ画像です。",
-    "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/ogp_initial_default.png",
-    "defaultUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/ogp_initial_default.png",
-    "defaultVolume": 0.5
-  },
-  {
-    "id": "top_aimi_image",
-    "category": "image",
-    "name": "👧 あいみ（トップ画面 立ち絵）",
-    "description": "あいちゃ2.0トップ画面の左側に表示されるあいみの立ち絵画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/aimilx_1791616348634.png",
-    "defaultUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/aimilx_1791616348634.png"
-  },
-  {
-    "id": "top_aita_image",
-    "category": "image",
-    "name": "👦 あいた（トップ画面 立ち絵）",
-    "description": "あいちゃ2.0トップ画面の右側に表示されるあいたの立ち絵画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/aitax_1791616357472.png",
-    "defaultUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/aitax_1791616357472.png"
-  },
-  {
-    "id": "top_chaccha_start_image",
-    "category": "image",
-    "name": "🐾 ちゃっちゃとはじめるボタン画像",
-    "description": "あいちゃ2.0トップ画面の中央に表示される「ちゃっちゃとはじめる」ボタン画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791887169634_chaccha_start_clean_1791887169633.png",
-    "defaultUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791887169634_chaccha_start_clean_1791887169633.png"
-  },
-  {
-    "id": "top_logo_image",
-    "category": "image",
-    "name": "✨ あいちゃ2.0 タイトルロゴ",
-    "description": "あいちゃ2.0トップ画面の中央上部に表示されるタイトルロゴ画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791887160458_aicha2_logo_clean_1791887160457.png",
-    "defaultUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791887160458_aicha2_logo_clean_1791887160457.png"
-  },
-  {
-    "id": "nav_aita_avatar",
-    "category": "image",
-    "name": "👦 あいた（ナビゲーター顔アイコン）",
-    "description": "ログイン後マップ画面の左下に表示されるあいたのナビゲーター丸型アイコン画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791694010294_aitakao_1791694010293.jpg",
-    "defaultUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791694010294_aitakao_1791694010293.jpg"
-  },
-  {
-    "id": "nav_aimi_avatar",
-    "category": "image",
-    "name": "👧 あいみ（ナビゲーター顔アイコン）",
-    "description": "ログイン後マップ画面の左下に表示されるあいみのナビゲーター丸型アイコン画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791694018841_aimikao_1791694018840.jpg",
-    "defaultUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791694018841_aimikao_1791694018840.jpg"
-  },
-  {
-    "id": "nav_chaccha_avatar",
-    "category": "image",
-    "name": "🐕 ちゃっちゃ（ナビゲーター顔アイコン）",
-    "description": "ログイン後マップ画面の左下に表示されるちゃっちゃのナビゲーター丸型アイコン画像です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791694045263_chacchakao_1791694045262.jpg",
-    "defaultUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791694045263_chacchakao_1791694045262.jpg"
-  },
-  {
     "id": "src2_bg_beach_day",
     "category": "image",
     "name": "🏖️ ビーチ昼",
@@ -97,7 +23,7 @@
     "name": "🌌 ビーチ夜",
     "description": "SRC2チャットルーム「ビーチ夜」の背景画像またはWebM動画（.webm）です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968045143_atnbz_aicha_beach_night.webm",
-    "defaultUrl": "https://images.unsplash.com/photo-1509114397022-ed747cca3f65?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
     "defaultVolume": 0.1
   },
   {
@@ -177,29 +103,5 @@
     "currentUrl": "/welcomepagebgm.mp3",
     "defaultUrl": "/welcomepagebgm.mp3",
     "defaultVolume": 0.35
-  },
-  {
-    "id": "welcome_bg",
-    "category": "image",
-    "name": "🌟 ウェルカムページ背景",
-    "description": "ウェルカムページの背景（画像またはWebM動画）です。",
-    "currentUrl": "/daytime_map.png",
-    "defaultUrl": "/daytime_map.png"
-  },
-  {
-    "id": "welcome_logo",
-    "category": "image",
-    "name": "🌟 ウェルカムページロゴ",
-    "description": "ウェルカムページ上部に表示されるロゴ画像です。",
-    "currentUrl": "/logo.png",
-    "defaultUrl": "/logo.png"
-  },
-  {
-    "id": "top_bg",
-    "category": "image",
-    "name": "🌟 トップページ背景",
-    "description": "トップ画面（2.0トップ・アイランドマップ）の全体背景画像またはWebM動画です。",
-    "currentUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791883207666____1791883207665.jpg",
-    "defaultUrl": "https://cdn.jsdelivr.net/gh/shinryzen/aicha-assets@main/uploads/1791883207666____1791883207665.jpg"
   }
 ]
