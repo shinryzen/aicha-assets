@@ -4,10 +4,10 @@
     "category": "image",
     "name": "🏖️ ビーチ昼",
     "description": "SRC2チャットルーム「ビーチ昼」の初期WebM動画（.webm）または背景画像です。",
-    "currentUrl": "/uploads/1792397517746_ui3x8_media_src2_bg_beach_day.webm",
+    "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968089024_6pix5_aicha_beach_day.webm",
     "defaultUrl": "/beachdaytime.webm",
     "fallbackImageUrl": "/aichabeachhiru.png",
-    "defaultVolume": 0.1
+    "defaultVolume": 0.3
   },
   {
     "id": "src2_bg_beach_sunset",
