@@ -5,7 +5,7 @@
     "name": "🏖️ ビーチ昼",
     "description": "SRC2チャットルーム「ビーチ昼」の初期WebM動画（.webm）または背景画像です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968089024_6pix5_aicha_beach_day.webm",
-    "defaultUrl": "/beachdaytime.webm",
+    "defaultUrl": "/assets/aistudio/hoshizunanobeach_daytime_short_4c406596.webm",
     "fallbackImageUrl": "/aichabeachhiru.png",
     "defaultVolume": 0.1
   },
@@ -15,7 +15,7 @@
     "name": "🌅 ビーチ夕",
     "description": "SRC2チャットルーム「ビーチ夕」の初期WebM動画（.webm）または背景画像です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968068995_xvh1p_aicha_beach_sunset.webm",
-    "defaultUrl": "/beachsunset.webm",
+    "defaultUrl": "/assets/aistudio/hoshizunanobeach_sunset_short_9fa54533.webm",
     "fallbackImageUrl": "/aichabeachyuu.png",
     "defaultVolume": 0.1
   },
@@ -25,7 +25,7 @@
     "name": "🌌 ビーチ夜",
     "description": "SRC2チャットルーム「ビーチ夜」の初期WebM動画（.webm）または背景画像です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968045143_atnbz_aicha_beach_night.webm",
-    "defaultUrl": "/beachnight.webm",
+    "defaultUrl": "/assets/aistudio/hoshizunanobeach_night_short_eb00bda0.webm",
     "fallbackImageUrl": "/aichabeachyoru.png",
     "defaultVolume": 0.1
   },
@@ -80,7 +80,7 @@
     "name": "🏝️ あいちゃアイランド 全体マップ (☀️ 昼 07:00〜16:00)",
     "description": "昼間に表示されるあいちゃアイランドの全体マップ画像です。",
     "currentUrl": "/daytime_map.png",
-    "defaultUrl": "/daytime_map.png"
+    "defaultUrl": "/assets/aistudio/aicha2xmap_415192ed.png"
   },
   {
     "id": "island_map_sunset",
@@ -88,7 +88,7 @@
     "name": "🏝️ あいちゃアイランド 全体マップ (🌇 夕方 16:00〜20:00)",
     "description": "夕方時間帯に表示されるあいちゃアイランドの夕焼けマップ画像です。",
     "currentUrl": "/sunset_map.png",
-    "defaultUrl": "/sunset_map.png"
+    "defaultUrl": "/assets/aistudio/aicha2xsunsetmap_2a3efbb1.png"
   },
   {
     "id": "island_map_night",
@@ -96,7 +96,7 @@
     "name": "🏝️ あいちゃアイランド 全体マップ (🌙 夜 20:00〜07:00)",
     "description": "夜間時間帯に表示されるあいちゃアイランドのナイトマップ画像です。",
     "currentUrl": "/nighttime_map.png",
-    "defaultUrl": "/nighttime_map.png"
+    "defaultUrl": "/assets/aistudio/aicha2xmapnight_25604850.png"
   },
   {
     "id": "welcome_bgm",
