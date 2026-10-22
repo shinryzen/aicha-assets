@@ -5,8 +5,8 @@
     "name": "🏖️ ビーチ昼",
     "description": "SRC2チャットルーム「ビーチ昼」の初期WebM動画（.webm）または背景画像です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968089024_6pix5_aicha_beach_day.webm",
-    "defaultUrl": "/beachdaytime.webm",
-    "fallbackImageUrl": "/aichabeachhiru.png",
+    "defaultUrl": "/koushiki/hoshizunanobeach_daytime_short.webm",
+    "fallbackImageUrl": "/koushiki/hoshizunanobeach_daytime.png",
     "defaultVolume": 0.1
   },
   {
@@ -15,8 +15,8 @@
     "name": "🌅 ビーチ夕",
     "description": "SRC2チャットルーム「ビーチ夕」の初期WebM動画（.webm）または背景画像です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968068995_xvh1p_aicha_beach_sunset.webm",
-    "defaultUrl": "/beachsunset.webm",
-    "fallbackImageUrl": "/aichabeachyuu.png",
+    "defaultUrl": "/koushiki/hoshizunanobeach_sunset_short.webm",
+    "fallbackImageUrl": "/koushiki/hoshizunanobeach_sunset.png",
     "defaultVolume": 0.1
   },
   {
@@ -25,8 +25,8 @@
     "name": "🌌 ビーチ夜",
     "description": "SRC2チャットルーム「ビーチ夜」の初期WebM動画（.webm）または背景画像です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968045143_atnbz_aicha_beach_night.webm",
-    "defaultUrl": "/beachnight.webm",
-    "fallbackImageUrl": "/aichabeachyoru.png",
+    "defaultUrl": "/koushiki/hoshizunanobeach_night_short.webm",
+    "fallbackImageUrl": "/koushiki/hoshizunanobeach_night.png",
     "defaultVolume": 0.1
   },
   {
@@ -35,7 +35,7 @@
     "name": "⛰️ 星空の丘",
     "description": "SRC2チャットルーム「星空の丘」の背景画像またはWebM動画（.webm）です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791387411298_bottegastagepic.jpeg",
-    "defaultUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?auto=format&fit=crop&w=1920&q=80",
+    "defaultUrl": "/koushiki/hoshizoranooka.png",
     "defaultVolume": 0.1
   },
   {
@@ -80,7 +80,7 @@
     "name": "🏝️ あいちゃアイランド 全体マップ (☀️ 昼 07:00〜16:00)",
     "description": "昼間に表示されるあいちゃアイランドの全体マップ画像です。",
     "currentUrl": "/daytime_map.png",
-    "defaultUrl": "/assets/aistudio/aicha2xmap_415192ed.png"
+    "defaultUrl": "/koushiki/aicha2xmapdaytime.png"
   },
   {
     "id": "island_map_sunset",
@@ -88,7 +88,7 @@
     "name": "🏝️ あいちゃアイランド 全体マップ (🌇 夕方 16:00〜20:00)",
     "description": "夕方時間帯に表示されるあいちゃアイランドの夕焼けマップ画像です。",
     "currentUrl": "/sunset_map.png",
-    "defaultUrl": "/assets/aistudio/aicha2xsunsetmap_2a3efbb1.png"
+    "defaultUrl": "/koushiki/aicha2xmapsunset.png"
   },
   {
     "id": "island_map_night",
@@ -96,7 +96,7 @@
     "name": "🏝️ あいちゃアイランド 全体マップ (🌙 夜 20:00〜07:00)",
     "description": "夜間時間帯に表示されるあいちゃアイランドのナイトマップ画像です。",
     "currentUrl": "/nighttime_map.png",
-    "defaultUrl": "/assets/aistudio/aicha2xmapnight_25604850.png"
+    "defaultUrl": "/koushiki/aicha2xmapnight.png"
   },
   {
     "id": "welcome_bgm",
