@@ -5,7 +5,7 @@
     "name": "🏖️ ビーチ昼",
     "description": "SRC2チャットルーム「ビーチ昼」の初期WebM動画（.webm）または背景画像です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968089024_6pix5_aicha_beach_day.webm",
-    "defaultUrl": "/assets/aistudio/hoshizunanobeach_daytime_short_4c406596.webm",
+    "defaultUrl": "/beachdaytime.webm",
     "fallbackImageUrl": "/aichabeachhiru.png",
     "defaultVolume": 0.1
   },
@@ -15,7 +15,7 @@
     "name": "🌅 ビーチ夕",
     "description": "SRC2チャットルーム「ビーチ夕」の初期WebM動画（.webm）または背景画像です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968068995_xvh1p_aicha_beach_sunset.webm",
-    "defaultUrl": "/assets/aistudio/hoshizunanobeach_sunset_short_9fa54533.webm",
+    "defaultUrl": "/beachsunset.webm",
     "fallbackImageUrl": "/aichabeachyuu.png",
     "defaultVolume": 0.1
   },
@@ -25,7 +25,7 @@
     "name": "🌌 ビーチ夜",
     "description": "SRC2チャットルーム「ビーチ夜」の初期WebM動画（.webm）または背景画像です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791968045143_atnbz_aicha_beach_night.webm",
-    "defaultUrl": "/assets/aistudio/hoshizunanobeach_night_short_eb00bda0.webm",
+    "defaultUrl": "/beachnight.webm",
     "fallbackImageUrl": "/aichabeachyoru.png",
     "defaultVolume": 0.1
   },
