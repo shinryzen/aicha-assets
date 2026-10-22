@@ -36,24 +36,37 @@
     "description": "SRC2チャットルーム「星空の丘」の背景画像またはWebM動画（.webm）です。",
     "currentUrl": "https://raw.githubusercontent.com/shinryzen/aicha-assets/main/uploads/1791387411298_bottegastagepic.jpeg",
     "defaultUrl": "/koushiki/hoshizoranooka.png",
+    "fallbackImageUrl": "/koushiki/hoshizoranooka.png",
     "defaultVolume": 0.1
   },
   {
-    "id": "src2_bg_cafebar",
+    "id": "src2_bg_palmavenue",
     "category": "image",
-    "name": "☕ カフェバー",
-    "description": "SRC2チャットルーム「カフェバー」の背景画像またはWebM動画（.webm）です。",
-    "currentUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1920&q=80",
-    "defaultUrl": "https://images.unsplash.com/photo-1554118811-1e0d58224f24?auto=format&fit=crop&w=1920&q=80",
+    "name": "🌴 パームアベニュー",
+    "description": "SRC2チャットルーム「パームアベニュー」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "/koushiki/place_palmavenue.png",
+    "defaultUrl": "/koushiki/place_palmavenue.png",
+    "fallbackImageUrl": "/koushiki/place_palmavenue.png",
     "defaultVolume": 0.5
   },
   {
-    "id": "src2_bg_theater",
+    "id": "src2_bg_fashionhills",
     "category": "image",
-    "name": "🎬 シアター",
-    "description": "SRC2チャットルーム「シアター」の背景画像またはWebM動画（.webm）です。",
-    "currentUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1920&q=80",
-    "defaultUrl": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1920&q=80",
+    "name": "👗 ファッションヒルズ",
+    "description": "SRC2チャットルーム「ファッションヒルズ」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "/koushiki/place_fashinhills.png",
+    "defaultUrl": "/koushiki/place_fashinhills.png",
+    "fallbackImageUrl": "/koushiki/place_fashinhills.png",
+    "defaultVolume": 0.5
+  },
+  {
+    "id": "src2_bg_playharbor",
+    "category": "image",
+    "name": "⛵ プレイハーバー",
+    "description": "SRC2チャットルーム「プレイハーバー」の背景画像またはWebM動画（.webm）です。",
+    "currentUrl": "/koushiki/place_playharbor.png",
+    "defaultUrl": "/koushiki/place_playharbor.png",
+    "fallbackImageUrl": "/koushiki/place_playharbor.png",
     "defaultVolume": 0.5
   },
   {
